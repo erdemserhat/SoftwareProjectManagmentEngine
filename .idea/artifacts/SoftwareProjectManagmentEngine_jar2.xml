@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="SoftwareProjectManagmentEngine:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/SoftwareProjectManagmentEngine_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="SoftwareProjectManagmentEngine.jar">
+        <element id="module-output" name="SoftwareProjectManagmentEngine" />
+      </element>
+    </root>
+  </artifact>
+</component>

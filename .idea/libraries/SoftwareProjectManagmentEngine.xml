@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SoftwareProjectManagmentEngine">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/SoftwareProjectManagmentEngine.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Desktop/JavaDoc/com/erdemserhat/software_project_management_system/package-summary.html" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
