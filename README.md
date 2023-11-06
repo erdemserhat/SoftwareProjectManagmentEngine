@@ -51,7 +51,8 @@ The Software Project Management Library is a comprehensive resource that encompa
 - Project Status: Ongoing
 
 ## Project UML Class Diagram
-[Proje Sınıf Diyagramı.pdf](https://github.com/erdemserhat/SoftwareProjectManagmentEngine/files/13268205/Proje.Sinif.Diyagrami.pdf)
+
+[Project Class Design SME 2023.pdf](https://github.com/erdemserhat/SoftwareProjectManagmentEngine/files/13268226/Project.Class.Design.SME.2023.pdf)
 
 
 
